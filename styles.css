@@ -6,14 +6,11 @@
 table{
 	text-align:center;
 	border:1px solid;
+	
 }
-td{
+td,th{
 	border:1px solid black;
-	text-align:center
+	text-align:center;
+	border-collapse:collapse;
 }
-th{
-		border:1px solid black;
-}
-tr{
-		border:1px solid black;
-}
+
